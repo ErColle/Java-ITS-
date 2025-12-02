@@ -1,4 +1,4 @@
-package Esercizi;
+package Esercizi.array;
 
 public class esarray7 {
 //    Esercizio n. 7 – elementi comuni

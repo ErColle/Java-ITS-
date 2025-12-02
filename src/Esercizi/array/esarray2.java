@@ -1,6 +1,4 @@
-package Esercizi;
-
-import java.util.Scanner;
+package Esercizi.array;
 
 public class esarray2 {
     public static void main(String[] args) {

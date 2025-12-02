@@ -1,4 +1,4 @@
-package Esercizi;
+package Esercizi.array;
 
 public class esarray3 {
     public static void main(String[] args){
