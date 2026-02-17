@@ -1,4 +1,4 @@
-package Stream;
+package stream;
 
 public class Prodotto {
     private int codice;

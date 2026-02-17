@@ -1,9 +1,9 @@
-package Lambda;
+package lambda;
 
-public class CriterioPeso implements Criterio{
+public class CriterioColoreVerde implements Criterio{
     @Override
     public boolean test(Mela mela) {
-        if(mela.getPeso() > 100)
+        if(mela.getColore().equals("verde"))
             return true;
         else
             return false;

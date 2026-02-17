@@ -1,4 +1,4 @@
-package Mappe;
+package mappe;
 
 import com.sun.source.tree.Tree;
 

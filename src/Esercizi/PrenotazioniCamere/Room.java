@@ -1,6 +1,5 @@
 package Esercizi.PrenotazioniCamere;
 
-import java.lang.classfile.instruction.ReturnInstruction;
 import java.util.ArrayList;
 
 public class Room {

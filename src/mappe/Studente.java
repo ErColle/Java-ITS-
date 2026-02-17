@@ -1,4 +1,4 @@
-package Mappe;
+package mappe;
 
 public class Studente {
 
