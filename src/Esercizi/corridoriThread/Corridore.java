@@ -28,8 +28,8 @@ public class Corridore implements Runnable{
 	}
 
 	@Override
-	public void run() {
-		for(int i = 0; i < 5; i++) {
+	synchronized public void run() {
+		for(int i = 1; i < 5; i++) {
 			System.out.println(nome + " ha completato la tappa " + i);
 			try {
 				Thread.sleep((int) random.nextInt(200, 801));
